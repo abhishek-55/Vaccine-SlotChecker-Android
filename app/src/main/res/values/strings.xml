@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Vaccine SlotChecker</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="appName">SLOT CHECKER</string>
+    <string name="attribution">Icons by ultimatearm &amp; freepik from www.flaticon.com</string>
+    <string name="register_sign_in">REGISTER / SIGN IN</string>
+    <string name="about_us">About Us</string>
+    <string name="check_by_pin">Check by Pincode</string>
+    <string name="check">Check</string>
+    <string name="app_description">This app will provide vaccination slot availability through the government provided facility Co-Win. The user needs to provide the pincode or select state and  district name to
+ receive information related to vaccination centres around them . This app doesn\'t require login .If slots are available then the user can book their slot by clicking the
+sign in/register button which will take them to the official Co-Win website where they can register themselves and their family members.</string>
+    <string name="no_sessions">No vaccination sessions available on this Day</string>
+    <string name="please_wait">Please Wait ....</string>
+    <string name="app_icon">App-Icon</string>
+    <string name="vaccination_image">Vaccination-Image</string>
+    <string name="chip">Chip</string>
+    <string name="check_by_district">Check by District</string>
+    <string name="state">STATE</string>
+    <string name="select_state">Select State</string>
+    <string name="district">DISTRICT</string>
+    <string name="select_district">Select District</string>
+    <string name="slot_checker">Slot Checker</string>
+    <string name="sad_emoji">Sad-Emoji</string>
+    <string name="vaccination">Vaccination</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="click_on_the_register_sign_in_button_to_book_your_slot">Click on the Register/Sign In button to book your slot .</string>
+    <string name="as_per_the_government_policy_of_cowin_the_appointment_availability_data_is_cached_and_may_be_up_to_5_minutes_old">As per the government policy of CoWIN the appointment availability data is cached and may be up to 5 minutes old .</string>
+
+    <string-array name="States">
+        <item>Andaman &amp; Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra &amp; Nagar Haveli</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Daman and Diu</item>
+    </string-array>
+
+</resources>

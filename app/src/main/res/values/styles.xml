@@ -1,0 +1,39 @@
+<resources>
+
+    <style name="Widget.Theme.VaccineSlotChecker.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.VaccineSlotChecker.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/montserrat_bold</item>
+    </style>
+
+    <style name="customChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="android:strokeWidth">4</item>
+        <item name="chipBackgroundColor">@color/chip_bg_color</item>
+        <item name="android:strokeColor">@color/app_primary_color</item>
+        <item name="android:textColor">@color/chip_text_bg</item>
+        <item name="checkedIconTint">@color/white</item>
+    </style>
+
+    <style name="CustomCardStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOver_card_custom_corners</item>
+    </style>
+
+    <style name="ShapeAppearanceOver_card_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">25dp</item>
+        <item name="cornerSizeBottomLeft">25dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+</resources>
