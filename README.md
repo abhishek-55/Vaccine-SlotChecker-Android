@@ -18,6 +18,15 @@ _**This app provides data using the public API provided by cowin and and i am no
 _**For more information related to this API please refer to [Co-WIN Public APIs](https://apisetu.gov.in/api/cowin)**_
 
 * **
+## Screenshots
+| <!-- -->    | <!-- -->    | <!-- -->    |
+|-------------|-------------|-------------|
+|<img src="https://raw.githubusercontent.com/abhishek-55/Vaccine-SlotChecker-Android/master/screenshots/IMG_20211124_003836.jpg" alt="ss1" width="288"/>|<img src="https://raw.githubusercontent.com/abhishek-55/Vaccine-SlotChecker-Android/master/screenshots/IMG_20211124_003937.jpg" alt="ss1" width="288"/>|
+|<img src="https://raw.githubusercontent.com/abhishek-55/Vaccine-SlotChecker-Android/master/screenshots/IMG_20211124_003859.jpg" alt="ss1" width="288"/>|<img src="https://raw.githubusercontent.com/abhishek-55/Vaccine-SlotChecker-Android/master/screenshots/IMG_20211124_003918.jpg" alt="ss1" width="288"/>|
+
+
+
+* **
 ## Permissions
 * **INTERNET :** This app requires internet connectivity to fetch  most recent data and serve it to the users.
 
