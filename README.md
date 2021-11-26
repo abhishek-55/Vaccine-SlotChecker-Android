@@ -17,6 +17,8 @@ _**This app provides data using the public API provided by cowin and and i am no
 
 _**For more information related to this API please refer to [Co-WIN Public APIs](https://apisetu.gov.in/api/cowin)**_
 
+Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a> and <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> 
+
 * **
 ## Screenshots
 | <!-- -->    | <!-- -->    | <!-- -->    |
